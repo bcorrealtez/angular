@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    font-family: Arial, Helvetica sans-serif;
+}
+.text-muted {
+    color: #8b8b8b;
+}
+
+.container {
+    max-width: 1080px;
+    margin: auto;
+}
+
+.float-end {
+    float: right;
+}
